@@ -1,0 +1,1 @@
+Sınıflar arasında pek çok ortak özellik ve davranış bulunduğu durumlarda, bu ortak özellikleri ve davranışları tek bir yerde toplamak için soyut sınıflar (abstract classes) kullanılır. Soyut sınıflar, kalıtım (inheritance) yoluyla alt sınıflara aktarılır ve bu alt sınıflar, soyut sınıfın özelliklerini ve davranışlarını kullanır.

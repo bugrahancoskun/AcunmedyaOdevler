@@ -1,0 +1,1 @@
+bir üst sınıf referansının tüm alt sınıf nesnelerini tutabilmesidir.
