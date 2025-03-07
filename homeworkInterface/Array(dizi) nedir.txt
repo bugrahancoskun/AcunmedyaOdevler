@@ -1,0 +1,1 @@
+C# dilinde, "array" (dizi), aynı türdeki verileri bir arada tutan bir veri yapısıdır. Diziler, belirli bir boyuta sahiptir ve bu boyut genellikle tanımlandığında sabittir. Diziler, sıfır tabanlı indeksleme kullanır, yani ilk elemanın indeksi 0'dır.
