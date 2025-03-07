@@ -1,0 +1,14 @@
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\bin\Debug\net8.0\aracDurum.exe
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\bin\Debug\net8.0\aracDurum.deps.json
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\bin\Debug\net8.0\aracDurum.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\bin\Debug\net8.0\aracDurum.dll
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\bin\Debug\net8.0\aracDurum.pdb
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\aracDurum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\aracDurum.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\aracDurum.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\aracDurum.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\aracDurum.dll
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\refint\aracDurum.dll
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\aracDurum.pdb
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\aracDurum.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\AcunmedyaOdevler\homeworkInterface\aracDurum\aracDurum\aracDurum\obj\Debug\net8.0\ref\aracDurum.dll
