@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\bin\Debug\net8.0\maasHesap.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\bin\Debug\net8.0\maasHesap.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\bin\Debug\net8.0\maasHesap.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\bin\Debug\net8.0\maasHesap.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\bin\Debug\net8.0\maasHesap.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\refint\maasHesap.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\maasHesap.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\maasHesap\maasHesap\maasHesap\obj\Debug\net8.0\ref\maasHesap.dll
