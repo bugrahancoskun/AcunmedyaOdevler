@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkinterface\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|solutionrelative:yak\u0131tt\u00FCketim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkinterface\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\abstracts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|solutionrelative:yak\u0131tt\u00FCketim\\abstracts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkinterface\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|solutionrelative:yak\u0131tt\u00FCketim\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkinterface\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|solutionrelative:yak\u0131tt\u00FCketim\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkinterface\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|solutionrelative:yak\u0131tt\u00FCketim\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkinterface\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\yak\u0131tt\u00FCketim\\interfaces\\iyak\u0131tt\u00FCketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8808E667-630B-4383-92ED-C524B72AEBFC}|Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim.csproj|solutionrelative:yak\u0131tt\u00FCketim\\interfaces\\iyak\u0131tt\u00FCketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "Yak\u0131tT\u00FCketim\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Classes\\Porsche.cs",
+              "RelativeToolTip": "Yak\u0131tT\u00FCketim\\Classes\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:54:11.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "Yak\u0131tT\u00FCketim\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "Yak\u0131tT\u00FCketim\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:54:06.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Classes\\BMW.cs",
+              "RelativeDocumentMoniker": "Yak\u0131tT\u00FCketim\\Classes\\BMW.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Classes\\BMW.cs",
+              "RelativeToolTip": "Yak\u0131tT\u00FCketim\\Classes\\BMW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:53:52.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Abstracts\\Car.cs",
+              "RelativeDocumentMoniker": "Yak\u0131tT\u00FCketim\\Abstracts\\Car.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Abstracts\\Car.cs",
+              "RelativeToolTip": "Yak\u0131tT\u00FCketim\\Abstracts\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:49:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IYak\u0131tT\u00FCketimi.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Interfaces\\IYak\u0131tT\u00FCketimi.cs",
+              "RelativeDocumentMoniker": "Yak\u0131tT\u00FCketim\\Interfaces\\IYak\u0131tT\u00FCketimi.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Interfaces\\IYak\u0131tT\u00FCketimi.cs",
+              "RelativeToolTip": "Yak\u0131tT\u00FCketim\\Interfaces\\IYak\u0131tT\u00FCketimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:49:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Program.cs",
+              "RelativeDocumentMoniker": "Yak\u0131tT\u00FCketim\\Program.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkInterface\\yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Yak\u0131tT\u00FCketim\\Program.cs*",
+              "RelativeToolTip": "Yak\u0131tT\u00FCketim\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:48:02.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

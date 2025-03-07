@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\bin\Debug\net8.0\YakıtTüketim.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\bin\Debug\net8.0\YakıtTüketim.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\bin\Debug\net8.0\YakıtTüketim.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\bin\Debug\net8.0\YakıtTüketim.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\bin\Debug\net8.0\YakıtTüketim.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\refint\YakıtTüketim.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\YakıtTüketim.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkInterface\yakıtTüketim\YakıtTüketim\YakıtTüketim\obj\Debug\net8.0\ref\YakıtTüketim.dll
