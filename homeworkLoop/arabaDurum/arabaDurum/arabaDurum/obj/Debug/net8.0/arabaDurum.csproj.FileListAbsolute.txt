@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\bin\Debug\net8.0\arabaDurum.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\bin\Debug\net8.0\arabaDurum.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\bin\Debug\net8.0\arabaDurum.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\bin\Debug\net8.0\arabaDurum.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\bin\Debug\net8.0\arabaDurum.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\refint\arabaDurum.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\arabaDurum.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\arabaDurum\arabaDurum\arabaDurum\obj\Debug\net8.0\ref\arabaDurum.dll

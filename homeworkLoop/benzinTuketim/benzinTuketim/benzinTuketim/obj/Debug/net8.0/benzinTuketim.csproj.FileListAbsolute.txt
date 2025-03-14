@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\bin\Debug\net8.0\benzinTuketim.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\bin\Debug\net8.0\benzinTuketim.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\bin\Debug\net8.0\benzinTuketim.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\bin\Debug\net8.0\benzinTuketim.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\bin\Debug\net8.0\benzinTuketim.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\refint\benzinTuketim.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\benzinTuketim.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\benzinTuketim\benzinTuketim\benzinTuketim\obj\Debug\net8.0\ref\benzinTuketim.dll

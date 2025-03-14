@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\bin\Debug\net8.0\yasBelirle.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\bin\Debug\net8.0\yasBelirle.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\bin\Debug\net8.0\yasBelirle.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\bin\Debug\net8.0\yasBelirle.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\bin\Debug\net8.0\yasBelirle.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\refint\yasBelirle.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\yasBelirle.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\yasBelirle\yasBelirle\yasBelirle\obj\Debug\net8.0\ref\yasBelirle.dll

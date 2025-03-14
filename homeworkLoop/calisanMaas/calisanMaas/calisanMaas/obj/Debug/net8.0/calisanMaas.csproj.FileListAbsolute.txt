@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\bin\Debug\net8.0\calisanMaas.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\bin\Debug\net8.0\calisanMaas.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\bin\Debug\net8.0\calisanMaas.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\bin\Debug\net8.0\calisanMaas.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\bin\Debug\net8.0\calisanMaas.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\refint\calisanMaas.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\calisanMaas.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkLoop\calisanMaas\calisanMaas\calisanMaas\obj\Debug\net8.0\ref\calisanMaas.dll
