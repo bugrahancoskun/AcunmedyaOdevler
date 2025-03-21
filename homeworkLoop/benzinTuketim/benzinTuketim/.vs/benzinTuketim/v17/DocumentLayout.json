@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkLoop\\benzinTuketim\\benzinTuketim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3D7D501-B56F-4E84-B52D-EB294A78712F}|benzinTuketim\\benzinTuketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkloop\\benzintuketim\\benzintuketim\\benzintuketim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D7D501-B56F-4E84-B52D-EB294A78712F}|benzinTuketim\\benzinTuketim.csproj|solutionrelative:benzintuketim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3D7D501-B56F-4E84-B52D-EB294A78712F}|benzinTuketim\\benzinTuketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkloop\\benzintuketim\\benzintuketim\\benzintuketim\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D7D501-B56F-4E84-B52D-EB294A78712F}|benzinTuketim\\benzinTuketim.csproj|solutionrelative:benzintuketim\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D7D501-B56F-4E84-B52D-EB294A78712F}|benzinTuketim\\benzinTuketim.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkloop\\benzintuketim\\benzintuketim\\benzintuketim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D7D501-B56F-4E84-B52D-EB294A78712F}|benzinTuketim\\benzinTuketim.csproj|solutionrelative:benzintuketim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Araba.cs",
               "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkLoop\\benzinTuketim\\benzinTuketim\\benzinTuketim\\Classes\\Araba.cs",
               "RelativeDocumentMoniker": "benzinTuketim\\Classes\\Araba.cs",
               "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkLoop\\benzinTuketim\\benzinTuketim\\benzinTuketim\\Classes\\Araba.cs",
               "RelativeToolTip": "benzinTuketim\\Classes\\Araba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T14:11:42.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkLoop\\benzinTuketim\\benzinTuketim\\benzinTuketim\\Program.cs",
               "RelativeDocumentMoniker": "benzinTuketim\\Program.cs",

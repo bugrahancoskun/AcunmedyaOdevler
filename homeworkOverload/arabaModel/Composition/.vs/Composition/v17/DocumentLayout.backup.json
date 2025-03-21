@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkoverload\\arabamodel\\composition\\composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|solutionrelative:composition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkoverload\\arabamodel\\composition\\composition\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|solutionrelative:composition\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkoverload\\arabamodel\\composition\\composition\\classes\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|solutionrelative:composition\\classes\\pencere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkoverload\\arabamodel\\composition\\composition\\classes\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|solutionrelative:composition\\classes\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkoverload\\arabamodel\\composition\\composition\\classes\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|solutionrelative:composition\\classes\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|c:\\users\\bugrahan coskun\\documents\\github\\acunmedyaodevler\\homeworkoverload\\arabamodel\\composition\\composition\\classes\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34041D2-6079-449E-BB17-239D15B08A11}|Composition\\Composition.csproj|solutionrelative:composition\\classes\\kapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "Composition\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Araba.cs",
+              "RelativeToolTip": "Composition\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:11:31.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Marka.cs",
+              "RelativeDocumentMoniker": "Composition\\Classes\\Marka.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Marka.cs",
+              "RelativeToolTip": "Composition\\Classes\\Marka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:11:19.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kasa.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Kasa.cs",
+              "RelativeDocumentMoniker": "Composition\\Classes\\Kasa.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Kasa.cs",
+              "RelativeToolTip": "Composition\\Classes\\Kasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:11:11.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pencere.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Pencere.cs",
+              "RelativeDocumentMoniker": "Composition\\Classes\\Pencere.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Pencere.cs",
+              "RelativeToolTip": "Composition\\Classes\\Pencere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:10:58.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kapi.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Kapi.cs",
+              "RelativeDocumentMoniker": "Composition\\Classes\\Kapi.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Classes\\Kapi.cs",
+              "RelativeToolTip": "Composition\\Classes\\Kapi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:10:50.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Program.cs",
+              "RelativeDocumentMoniker": "Composition\\Program.cs",
+              "ToolTip": "C:\\Users\\bugrahan coskun\\Documents\\GitHub\\AcunmedyaOdevler\\homeworkOverload\\arabaModel\\Composition\\Composition\\Program.cs",
+              "RelativeToolTip": "Composition\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:10:26.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

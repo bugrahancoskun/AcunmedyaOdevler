@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\bin\Debug\net8.0\overLoad.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\bin\Debug\net8.0\overLoad.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\bin\Debug\net8.0\overLoad.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\bin\Debug\net8.0\overLoad.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\bin\Debug\net8.0\overLoad.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\refint\overLoad.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\overLoad.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOverload\arabaModel\Overload\overLoad\overLoad\obj\Debug\net8.0\ref\overLoad.dll
