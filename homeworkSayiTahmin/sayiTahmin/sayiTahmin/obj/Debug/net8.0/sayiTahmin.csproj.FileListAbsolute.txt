@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\bin\Debug\net8.0\sayiTahmin.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\bin\Debug\net8.0\sayiTahmin.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\bin\Debug\net8.0\sayiTahmin.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\bin\Debug\net8.0\sayiTahmin.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\bin\Debug\net8.0\sayiTahmin.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\refint\sayiTahmin.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\sayiTahmin.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkSayiTahmin\sayiTahmin\sayiTahmin\obj\Debug\net8.0\ref\sayiTahmin.dll
