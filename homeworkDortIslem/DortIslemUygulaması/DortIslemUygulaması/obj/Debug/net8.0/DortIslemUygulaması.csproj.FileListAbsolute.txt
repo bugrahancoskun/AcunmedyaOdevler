@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\bin\Debug\net8.0\DortIslemUygulaması.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\bin\Debug\net8.0\DortIslemUygulaması.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\bin\Debug\net8.0\DortIslemUygulaması.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\bin\Debug\net8.0\DortIslemUygulaması.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\bin\Debug\net8.0\DortIslemUygulaması.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\refint\DortIslemUygulaması.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\DortIslemUygulaması.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkDortIslem\DortIslemUygulaması\DortIslemUygulaması\obj\Debug\net8.0\ref\DortIslemUygulaması.dll
