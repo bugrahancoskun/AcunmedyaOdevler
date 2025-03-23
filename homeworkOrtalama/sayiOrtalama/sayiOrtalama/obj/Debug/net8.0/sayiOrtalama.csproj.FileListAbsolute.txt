@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\bin\Debug\net8.0\sayiOrtalama.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\bin\Debug\net8.0\sayiOrtalama.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\bin\Debug\net8.0\sayiOrtalama.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\bin\Debug\net8.0\sayiOrtalama.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\bin\Debug\net8.0\sayiOrtalama.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\refint\sayiOrtalama.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\sayiOrtalama.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkOrtalama\sayiOrtalama\sayiOrtalama\obj\Debug\net8.0\ref\sayiOrtalama.dll
