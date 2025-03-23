@@ -1,0 +1,15 @@
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.AssemblyInfoInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.AssemblyInfo.cs
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.sourcelink.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.exe
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.deps.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.runtimeconfig.json
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\refint\accessModifiers.dll
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.pdb
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.genruntimeconfig.cache
+C:\Users\bugrahan coskun\Documents\GitHub\AcunmedyaOdevler\homeworkAccessmodifiers\accessModifiers\accessModifiers\obj\Debug\net8.0\ref\accessModifiers.dll
